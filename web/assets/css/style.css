@@ -65,6 +65,12 @@ section {
     background-attachment: fixed;
 }
 
+@supports (-webkit-overflow-scrolling: touch) {
+  section {
+    background-attachment: scroll;
+  }
+}
+
 section h2 {
     display: block;
     font-family: 'Raleway', sans-serif;
