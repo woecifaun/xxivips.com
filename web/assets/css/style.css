@@ -29,19 +29,14 @@ a:hover {
     background-color: rgba(0, 0, 0, 0.8);
 }
 
-.navbar-brand {
-    text-transform: uppercase;
-}
-
-.navbar-brand span {
+.navbar-brand  {
     color: white;
-    font-size: 120%;
-    text-transform: lowercase;
+    font-size: 160%;
 }
 
-#logo-brand {
-    width: 2em;
-    height: 2em;
+.navbar-brand img {
+    vertical-align: middle;
+    width: 1.5em;
 }
 
 /* Page Structure (Sections) */
