@@ -1,4 +1,31 @@
 ---
 title: xxivips - Audiovisual Works & Projection Mapping
 
-brand: Audiovisual Works & Projection Mapping
+nav:
+  exhibits:
+    label: immersive exhibitions
+    id:    immersive-exhibitions
+  videos:
+    label: videos
+    id:    videos
+  about:
+    label: about
+    id:    about
+  lang:
+    current: en
+    available: [en, fr]
+
+section:
+  exhibits:
+    title:   immersive exhibitions
+    caption: "Director @lililillilil"
+    url:     http://www.lililillilil.com
+  videos:
+    title:   videos
+    caption: "@vimeo"
+    url:     https://vimeo.com/xxivips/
+
+headline:
+  1: Audiovisual Works,
+  2: Digital Exhibits,
+  3: Logos & Design

@@ -2,10 +2,9 @@
 generate: true
 #}
 
-{% extends 'twig/base.html.twig' %}
+{% set lang = fr %}
 
-{% block title %}{{ fr.title }}{% endblock %}
-{% block brand %}{{ fr.brand }}{% endblock %}
+{% extends 'twig/base.html.twig' %}
 
 {% block body %}
 <p>Spécialiste de la mise en projection de spectacles audiovisuels, je travaille en collaboration avec les artistes pour mettre en valeur leurs concepts.</p>

@@ -1,5 +1,31 @@
 ---
 title: xxivips - Créations Vidéos & Projections Monumentales
 
-brand: Créations Vidéos & Projections Monumentales
+nav:
+  exhibits:
+    label: expositions immersives
+    id:    expositions-immersives
+  videos:
+    label: vidéos
+    id:    videos
+  about:
+    label: à propos
+    id:    a-propos
+  lang:
+    current: fr
+    available: [en, fr]
 
+section:
+  exhibits:
+    title:   expositions immersives
+    caption: "Réalisateur @lililillilil"
+    url:     http://www.lililillilil.com
+  videos:
+    title:   vidéos
+    caption: "@vimeo"
+    url:     https://vimeo.com/xxivips/
+
+headline:
+  1: Créations Audiovisuelles,
+  2: Expos Numériques,
+  3: Logos & Design
