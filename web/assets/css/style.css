@@ -2,19 +2,10 @@
 
 html,body { height: 100%; min-height: 100%; }
 
-html {
-}
-
 body {
     background-color: transparent;
     font-weight: 300;
     font-family: 'Roboto', sans-serif;
-}
-
-@media only screen and (max-width : 768px) {
-    body {
-        font-size: 1.4rem;
-    }
 }
 
 a {
@@ -106,7 +97,7 @@ section#videos h2, section#videos a {
 .section-caption {
     padding-left: 25%;
     text-align: center;
-    font-size: 200%;
+    /*font-size: 200%;*/
     margin-top: -.5em;
 }
 
